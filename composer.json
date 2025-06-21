@@ -1,5 +1,5 @@
 {
-    "name": "webmavens/storage-clear",
+    "name": "webmavens/laravel-storage-clear",
     "description": "Laravel package for Clear a specific folder or all contents of a given storage disk (e.g., local, public, s3)",
     "autoload": {
         "psr-4": {
